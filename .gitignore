@@ -54,6 +54,7 @@ local.properties
 ######################
 .idea/
 target/
+/target/
 *.iml
 *.iws
 *.ipr
