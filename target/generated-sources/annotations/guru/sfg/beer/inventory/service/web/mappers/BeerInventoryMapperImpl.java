@@ -2,15 +2,15 @@ package guru.sfg.beer.inventory.service.web.mappers;
 
 import guru.sfg.beer.inventory.service.domain.BeerInventory;
 import guru.sfg.beer.inventory.service.domain.BeerInventory.BeerInventoryBuilder;
-import guru.sfg.beer.inventory.service.web.model.BeerInventoryDto;
-import guru.sfg.beer.inventory.service.web.model.BeerInventoryDto.BeerInventoryDtoBuilder;
+import guru.sfg.brewery.model.BeerInventoryDto;
+import guru.sfg.brewery.model.BeerInventoryDto.BeerInventoryDtoBuilder;
 import javax.annotation.processing.Generated;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2019-12-29T12:01:49-0500",
+    date = "2019-12-30T09:31:25-0500",
     comments = "version: 1.3.1.Final, compiler: javac, environment: Java 11.0.5 (Oracle Corporation)"
 )
 @Component
